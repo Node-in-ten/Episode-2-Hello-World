@@ -1,0 +1,23 @@
+{
+  "name": "episode-2-hello-world",
+  "version": "1.0.0",
+  "description": "Just a very simple hello world project in NodeJS",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Node-in-ten/Episode-2-Hello-World.git"
+  },
+  "author": "Shane Gadsby",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Node-in-ten/Episode-2-Hello-World/issues"
+  },
+  "homepage": "https://github.com/Node-in-ten/Episode-2-Hello-World#readme"
+}
